@@ -1,0 +1,40 @@
+*{
+    background-attachment: fixed;
+    background-image: url("https://bit.ly/2U6oNV6");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+}
+.strong {
+    text-indent: 0%;
+    font-style: italic;
+}
+.li {
+    font-style: oblique;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: coral;
+    float: left;
+}
+
+.unimportant {
+    font-style: italic;
+    color: brown;
+}
+.important {
+    color: crimson;
+}
+.branching {
+    font-style: initial;
+    font-size: initial;
+    font-weight: lighter;
+    color: lawngreen;
+}
+.weakness {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: small;
+    color: black;
+}
